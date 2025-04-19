@@ -5,8 +5,6 @@
 ## 🌟 My profiles:
 ### 🔹[Leetcode](https://leetcode.com/u/ummuys/)
 ### 🔹[Codewars](https://www.codewars.com/users/Ummuys)
-### 🔹[HH](https://spb.hh.ru/resume/b9093933ff0eb77b8e0039ed1f4a5653506a42)
-
   
 
 ## 📊 Main projects:
