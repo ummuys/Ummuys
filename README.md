@@ -50,6 +50,7 @@
 <div align="center">
   <h2>
     <a href="https://github.com/Ummuys/TWB">TWB (Telegram weather bot)  <br> </a>
+    <a href="https://github.com/Ummuys/Coursework"> Coursework (gRPC vs REST api) <br> </a>
     <br>
   </h2>
 </div>
