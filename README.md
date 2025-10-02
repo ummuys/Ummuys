@@ -52,6 +52,7 @@
     <a href="https://github.com/Ummuys/TWB">TWB (Telegram weather bot)  <br> </a>
     <a href="https://github.com/Ummuys/Coursework"> Courseproject (gRPC vs REST api) <br> </a>
     <a href="https://github.com/ummuys/effective_mobile_ts"> Test task from Effective Mobile <br> </a>
+    <a href="https://github.com/ummuys/level_0"> Tesk task from WBTech (Kafka + PGSQL) <br> </a>
     <br>
   </h2>
 </div>
