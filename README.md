@@ -50,8 +50,6 @@
 <div align="center">
   <h2>
      <a href="https://github.com/ummuys/reportify">Reportify (SQL-less Reporting) <br> </a>
-    <a href="https://github.com/Ummuys/TWB">TWB (Telegram weather bot)  <br> </a>
-    <a href="https://github.com/Ummuys/Coursework"> Courseproject (gRPC vs REST api) <br> </a>
     <a href="https://github.com/ummuys/PactTelegramService"> Test task from Pact im (Telegram Service MTProto) <br> </a>
     <a href="https://github.com/ummuys/level_0"> Tesk task from WBTech (Kafka + PGSQL) <br> </a>
     <br>
