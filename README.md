@@ -22,10 +22,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
 </div>
 
