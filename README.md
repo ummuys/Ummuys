@@ -49,9 +49,10 @@
 <h1 align="center"> Projects on Golang </h1>
 <div align="center">
   <h2>
-     <a href="https://github.com/ummuys/reportify">Reportify (SQL-less Reporting) <br> </a>
+    <a href="https://github.com/ummuys/reportify">Reportify (SQL-less Reporting) </a> and <a href="https://github.com/ummuys/reportify_plus">Reportify PLus (Microservice architecture) <br> </a> 
     <a href="https://github.com/ummuys/PactTelegramService"> Test task from Pact im (Telegram Service MTProto) <br> </a>
     <a href="https://github.com/ummuys/level_0"> Tesk task from WBTech (Kafka + PGSQL) <br> </a>
+    <a href="https://github.com/ummuys/alera"> Alera (Online paint) (Beta version) <br> </a>
     <br>
   </h2>
 </div>
